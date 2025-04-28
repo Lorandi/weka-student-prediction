@@ -1,0 +1,12 @@
+
+@relation previsao_desistencia_aluno
+
+@attribute idade numeric
+@attribute nota_média numeric
+@attribute taxa_presença numeric
+@attribute reprovações numeric
+@attribute matriculado {sim, não}
+
+@data
+23,81,86,4,?
+
